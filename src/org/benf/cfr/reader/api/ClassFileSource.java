@@ -35,6 +35,7 @@ public interface ClassFileSource {
      *
      * You should adjust this path to match where Bob$1 actually is.
      *
+     
      * <em>This will also be called with null, null to reset.</em>
      *
      * @param usePath the path that was used to load a class file.
